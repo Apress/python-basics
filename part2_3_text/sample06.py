@@ -1,0 +1,10 @@
+sentence = 'Hello there'
+print(sentence)
+print(sentence.upper())
+print(sentence.lower())
+print(sentence.replace('e', 'a'))
+print(sentence.replace('e', 'abc'))
+print(sentence.replace('there', 'you'))
+print(sentence.replace('ell', ''))
+print(sentence.replace('e', 'a'))
+print(sentence.replace('e', 'a', 1))

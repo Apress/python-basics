@@ -1,0 +1,6 @@
+print(False and False)
+print(False and True)
+print(True and False)
+print(True and True)
+print(5 < 10 and 7 < 15)
+print(3 > 4 and 7 < 10)
